@@ -1,4 +1,4 @@
-# Nonlinear Equations with variation methods
+# [Numerical Analysis] Nonlinear Equations with variation methods
 1. The fixed-point implementation of the problem in 16bits - using bisection method
 2. Newton's Method
 <br>
