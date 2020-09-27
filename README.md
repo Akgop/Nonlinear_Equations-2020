@@ -1,6 +1,5 @@
 # Nonlinear Equations with variation methods
 1. The fixed-point implementation of the problem in 16bits - using bisection method
-<br>
 2. Newton's Method
 <br>
 Equation below
